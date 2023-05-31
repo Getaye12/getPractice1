@@ -1,2 +1,2 @@
-# getPractice1
+# gitPractice1
 Group Discussion
